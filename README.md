@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Richard Li (He/Him), a sophomore at Olin College of Engineering, pursuing a degree in Engineering with Computing. I have experience with Python, Go, and C. 
+I'm Richard Li (He/Him), a junior at Olin College of Engineering, pursuing a degree in Engineering with Computing. I have experience with Python, Go, and C. 
 
 Fun fact: [I write music](https://open.spotify.com/artist/46oNo84Ob0RXNWn3JVb5w7) ! And I never get to tell anyone because I'm just a plain 'ol software engineer on my resume :P
 
